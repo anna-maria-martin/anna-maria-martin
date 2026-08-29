@@ -1,16 +1,16 @@
-## Hi there 👋
+  # Anna Maria Martin
 
-<!--
-**anna-maria-martin/anna-maria-martin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  Software Engineer → Machine Learning | 4 years building enterprise systems at Siemens
 
-Here are some ideas to get you started:
+  Currently: learning PyTorch, fine-tuning LLMs, building ML pipelines
+  Background: C#, Angular, microservices, CI/CD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## What I'm building
+  - JPX Stock Forecasting — GRU vs classical ML on Tokyo Exchange time series; full pipeline from raw data to evaluation
+  - Neural Operators on Irregular Grids — probing where FNO breaks on non-uniform mesh inputs and testing mitigations
+
+  ## Skills
+  Python · PyTorch · scikit-learn · C# · Docker · FastAPI
+
+  ## Connect
+LinkedIn: www.linkedin.com/in/anna-maria-martin-a07929225 · Email: annamariamartin007@gmail.com
