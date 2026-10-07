@@ -6,8 +6,8 @@
   Background: C#, Angular, microservices, CI/CD
 
   ## What I'm building
-  - JPX Stock Forecasting — GRU vs classical ML on Tokyo Exchange time series; full pipeline from raw data to evaluation
-  - Neural Operators on Irregular Grids — probing where FNO breaks on non-uniform mesh inputs and testing mitigations
+  - JPX Stock Forecasting - GRU vs classical ML on Tokyo Exchange time series; full pipeline from raw data to evaluation
+  - Neural Operators on Irregular Grids - probing where FNO breaks on non-uniform mesh inputs and testing mitigations
 
   ## Skills
   Python · PyTorch · scikit-learn · C# · Docker · FastAPI
